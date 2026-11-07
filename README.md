@@ -34,13 +34,11 @@
 **Software & infrastructure:** React · FastAPI · REST APIs · Docker · Git · GitHub Actions
 
 
-<p align="center"><img src="assets/status.svg" width="100%" alt="Jesse's retro engineering status card" /></p>
-
 ---
 
 ## Let's connect
 
-Interested in connecting with people working on **robotics, embodied AI, and efficient machine learning systems**. I’m always happy to exchange ideas, learn from others, or collaborate on interesting problems.
+I enjoy meeting people from all kinds of backgrounds and hearing their stories. Whether you want to exchange ideas, collaborate, or simply say hello, feel free to connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoukuanlin/)
 
