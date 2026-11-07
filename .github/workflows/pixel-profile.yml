@@ -36,4 +36,12 @@ jobs:
             exit 0
           fi
           git commit -m "Update pixel-profile artwork"
-          git push
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push raced with another commit; retrying..."
+          done
+          exit 1
