@@ -4,7 +4,7 @@
 
 # Hi, I'm Jesse! 👋
 
-### Honors Electrical Engineering student at Clemson University | ✨ Aspiring Applied AI Engineer
+### Honors Electrical Engineering student @ Clemson University | ✨ Aspiring Applied AI Engineer
 
 - **Focus:** Agentic AI, hardware acceleration, and LLM orchestration.
 - **Currently building:** EQA approach for wild-fire detection in Unreal Engine environment incorporating Cosys-AirSim and Cesium.
