@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Pixel-art night city with a floating robot and Jesse Lin introduction" />
+</p>
+
 # Hi, I'm Jesse! 👋
 
 ### Electrical engineering student at Clemson University | VLA and agentic EQA for drones and robotics | Efficient model routing and tokenization.
@@ -9,7 +13,7 @@
 - **Hands-on experience:** Soldering, Arduino, Raspberry Pi, SO-101 arm, AutoCAD, and more.
 - **Learning:** digital logic, DSA, and systems fundamentals that connect software to physical hardware.
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## Featured work
 
@@ -30,6 +34,8 @@
 **Software & infrastructure:** React · FastAPI · REST APIs · Docker · Git · GitHub Actions
 
 
+<p align="center"><img src="assets/status.svg" width="100%" alt="Jesse's retro engineering status card" /></p>
+
 ---
 
 ## Let's connect
@@ -38,12 +44,9 @@ Interested in connecting with people working on **robotics, embodied AI, and eff
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoukuanlin/)
 
----
 
-<details>
-<summary><strong>🐟 Git Koi</strong> — an animated glimpse of my public GitHub activity</summary>
-<br>
 <p align="center">
-  <img src="koi/koi.gif" width="320" alt="My Git Koi, an animated pixel-art fish generated from GitHub activity" />
+  <img src="assets/footer.svg" width="100%" alt="Retro pixel-art footer with a floating robot" />
 </p>
-</details>
+
+<sub>Pixel art generated with [pixel-profile](https://github.com/TheMysteriousGhost/pixel-profile) (MIT license).</sub>
