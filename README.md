@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Pixel-art night city with a floating robot and Jesse Lin introduction" />
+  <img src="https://raw.githubusercontent.com/est4ever/est4ever/main/assets/banner.svg?v=0619e5cb09e1" width="100%" alt="Pixel-art night city with a floating ghost and Jesse Lin introduction" />
 </p>
 
 # Hi, I'm Jesse! 👋
@@ -44,7 +44,7 @@ I enjoy meeting people from all kinds of backgrounds and hearing their stories. 
 
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Retro pixel-art footer with a floating robot" />
+  <img src="https://raw.githubusercontent.com/est4ever/est4ever/main/assets/footer.svg?v=55385bd6a2b2" width="100%" alt="Retro pixel-art footer with a floating ghost" />
 </p>
 
 <sub>Pixel art generated with [pixel-profile](https://github.com/TheMysteriousGhost/pixel-profile) (MIT license).</sub>
