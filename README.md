@@ -34,15 +34,16 @@
 
 ## Let's connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-est4ever-181717?style=flat-square&logo=github)](https://github.com/est4ever)
-[![Explore projects](https://img.shields.io/badge/Explore-my%20projects-0969DA?style=flat-square&logo=github)](https://github.com/est4ever?tab=repositories)
+Interested in connecting with people working on **robotics, embodied AI, and efficient machine learning systems**. I’m always happy to exchange ideas, learn from others, or collaborate on interesting problems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoukuanlin/)
 
 ---
 
-## Git Koi 🐟
-
-<sub>A little pixel-art fish generated from my public GitHub activity.</sub>
-
+<details>
+<summary><strong>🐟 Git Koi</strong> — an animated glimpse of my public GitHub activity</summary>
+<br>
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="My animated Git Koi, generated from public GitHub activity" />
+  <img src="koi/koi.gif" width="320" alt="My Git Koi, an animated pixel-art fish generated from GitHub activity" />
 </p>
+</details>
