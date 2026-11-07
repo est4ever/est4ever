@@ -1,0 +1,34 @@
+{
+  "title": "JESSE LIN",
+  "handle": "est4ever",
+  "tagline": "BUILDING INTELLIGENT SYSTEMS",
+  "card_title": "ENGINEER.EXE",
+  "player": "JESSE",
+  "fields": [
+    [
+      "ROLE",
+      "EE STUDENT"
+    ],
+    [
+      "BASE",
+      "CLEMSON SC"
+    ],
+    [
+      "FOCUS",
+      "ROBOTICS AI"
+    ]
+  ],
+  "stack": [
+    "PYTHON",
+    "C++",
+    "PYTORCH",
+    "OLLAMA",
+    "ARDUINO"
+  ],
+  "status": "BUILDING",
+  "quest": "BRING AI INTO THE PHYSICAL WORLD",
+  "footer": "KEEP BUILDING *",
+  "footer_hint": "PRESS START",
+  "theme": "dusk",
+  "character": "robot"
+}
