@@ -4,7 +4,7 @@
 
 # Hi, I'm Jesse! 👋
 
-### Electrical engineering student at Clemson University | VLA and agentic EQA for drones and robotics | Efficient model routing and tokenization.
+### Electrical Engineering student at Clemson University | VLA and agentic EQA for drones and robotics | Efficient model routing and tokenization.
 
 ✨ Aspiring Applied AI Engineer
 
