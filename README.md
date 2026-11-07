@@ -11,7 +11,7 @@
 - **Focus:** Agentic AI, hardware acceleration, and LLM orchestration.
 - **Currently building:** EQA approach for wild-fire detection in Unreal Engine environment incorporating Cosys-AirSim and Cesium.
 - **Hands-on experience:** Soldering, Arduino, Raspberry Pi, SO-101 arm, AutoCAD, and more.
-- **Learning:** digital logic, DSA, and systems fundamentals that connect software to physical hardware.
+- **Learning:** Digital logic, DSA, and Systems and Signals fundamentals that connect software to physical hardware.
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
