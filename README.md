@@ -23,6 +23,12 @@
 
 ---
 
+## Open-source contributions
+
+- **[Quality-time](https://github.com/ICTU/quality-time)**: Improved measurement-fetch error notifications and added regression tests. Accepted and merged through [PR #15030](https://github.com/ICTU/quality-time/pull/15030), following my original [PR #14940](https://github.com/ICTU/quality-time/pull/14940).
+
+---
+
 ## Toolkit
 
 **Languages:** Python · C/C++ · JavaScript · Java · MATLAB
